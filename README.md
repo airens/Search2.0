@@ -1,5 +1,5 @@
 # Search
-Search for files in fman with Cmd+F7 / Ctrl+F7
+Forked with little improvements from abandoned https://github.com/rholi/Search. Search for files in fman with Cmd+F7 / Ctrl+F7
 
 ![Screenshot](search1.png?raw=true "Screenshot")
 ![Screenshot](search2.png?raw=true "Screenshot")
